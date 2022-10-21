@@ -1,0 +1,14 @@
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.exe
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.deps.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.runtimeconfig.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.runtimeconfig.dev.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.csproj.AssemblyReference.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.AssemblyInfoInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.AssemblyInfo.cs
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.genruntimeconfig.cache
