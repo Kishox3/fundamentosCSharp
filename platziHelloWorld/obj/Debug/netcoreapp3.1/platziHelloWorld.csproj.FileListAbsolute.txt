@@ -1,0 +1,14 @@
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\bin\Debug\netcoreapp3.1\platziHelloWorld.exe
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\bin\Debug\netcoreapp3.1\platziHelloWorld.deps.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\bin\Debug\netcoreapp3.1\platziHelloWorld.runtimeconfig.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\bin\Debug\netcoreapp3.1\platziHelloWorld.runtimeconfig.dev.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\bin\Debug\netcoreapp3.1\platziHelloWorld.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\bin\Debug\netcoreapp3.1\platziHelloWorld.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\obj\Debug\netcoreapp3.1\platziHelloWorld.csproj.AssemblyReference.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\obj\Debug\netcoreapp3.1\platziHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\obj\Debug\netcoreapp3.1\platziHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\obj\Debug\netcoreapp3.1\platziHelloWorld.AssemblyInfo.cs
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\obj\Debug\netcoreapp3.1\platziHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\obj\Debug\netcoreapp3.1\platziHelloWorld.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\obj\Debug\netcoreapp3.1\platziHelloWorld.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\fundamentos_netCore2.1\platziHelloWorld\obj\Debug\netcoreapp3.1\platziHelloWorld.genruntimeconfig.cache
