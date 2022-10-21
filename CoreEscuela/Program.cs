@@ -13,7 +13,7 @@ namespace CoreEscuela
 
         public void Timbrar()
         {
-            Console.Beep(10000, 3000);
+            Console.Beep(500, 3000);
         }
     }
 
