@@ -29,7 +29,6 @@ namespace CoreEscuela.Entidades
             Ciudad = ciudad;
         }
 
-
         //Override para imprimir toda la info cuando se llame el obj escuela
         public override string ToString()
         {
