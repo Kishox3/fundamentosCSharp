@@ -6,7 +6,7 @@ namespace CoreEscuela.Entidades
 
         public string Nombre //este "Nombre" es diferente a "nombre" se encargar de registrar los datos y convertirlos en MAYUS
         {
-            get {return "Copia: " + nombre;}
+            get {return nombre;}
             set { nombre = value.ToUpper();}
         }
 
