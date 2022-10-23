@@ -1,6 +1,6 @@
 namespace CoreEscuela.Entidades
 {
-    class CoreEscuela
+    class Escuela
     {
         string nombre;
 
