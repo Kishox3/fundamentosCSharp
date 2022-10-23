@@ -18,8 +18,9 @@ namespace CoreEscuela.Entidades
 
         public string Ciudad { get; set; }
 
-        public string Tipo { get; set; }  //esto lo editaremos mas tarde con otra entindad [enumeraciones]
-
+        public TiposEscuela TipoEscuela { get; set; } //vamos a usar enumeraciones para evitar TYPOS 
+        // en lugar de string el tipo de datos sera con el nombre del enum que se creo
+        
         /*
         public Escuela(string nombre, int año) //constructor de escuelas
         {

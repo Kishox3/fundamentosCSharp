@@ -16,8 +16,9 @@ namespace CoreEscuela
             escuela.Pais = "Colombia";
             escuela.Ciudad = "Bogota";
             //de igual forma se le puede agregar
+            escuela.TipoEscuela = TiposEscuela.Primaria; //solo deja escoger la lista de la numeracion
 
-            Console.WriteLine(escuela.Nombre); //esto imprimira el nombre que asignamos usando la clase escuela
+            Console.WriteLine(escuela); //idealmente si imprimos escuela deberia salir todo pero no es asi
         }
     }
     
