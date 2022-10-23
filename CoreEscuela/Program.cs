@@ -12,23 +12,30 @@ namespace CoreEscuela
             pais: "Colombia", ciudad: "Bogota" //parametros opcionales
             );
             
-            var curso1 = new Curso() {
-                Nombre = "101"
-            };
+            var arregloCursos = new Curso[3];
 
-            var curso2 = new Curso() {
+            //curso 1
+            arregloCursos[0] = new Curso()
+                                {
+                                    Nombre = "101"
+                                };
+            
+            //curso 2
+            var curso2 = new Curso()
+            {
                 Nombre = "201"
             };
+            arregloCursos[1] = curso2;
 
-            var curso3 = new Curso() {
-                Nombre = "301"
-            };
+            //curso 3
+            arregloCursos[2] = new Curso
+                                {
+                                    Nombre = "301"
+                                };
 
             Console.WriteLine(escuela);
             System.Console.WriteLine("====================");
-            System.Console.WriteLine(curso1.Nombre + " , " + curso1.UniequeId);
-            System.Console.WriteLine($"{curso2.Nombre} , {curso2.UniequeId}");
-            System.Console.WriteLine(curso3);
+            
         }
     }
 
