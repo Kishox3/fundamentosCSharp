@@ -19,5 +19,21 @@ namespace CoreEscuela.Entidades
         public string Ciudad { get; set; }
 
         public string Tipo { get; set; }  //esto lo editaremos mas tarde con otra entindad [enumeraciones]
+
+        public Escuela(string nombre, int año) //constructor de escuelas
+        {
+            this.nombre = nombre; //se utiliza this para poder usar la palabra nombre dos veces
+            // clase       entrada
+            
+            /*se puede hacer asi sin this:
+            public Escuela(string nombre de Entrada)
+            {
+                nombre = nombreEntrada; /
+            }
+            */
+
+            AñoDeCreacion = año;
+            // clase        entrada
+        }
     }
 }
