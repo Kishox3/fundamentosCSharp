@@ -18,7 +18,10 @@ namespace CoreEscuela
             //de igual forma se le puede agregar
             escuela.TipoEscuela = TiposEscuela.Primaria; //solo deja escoger la lista de la numeracion
 
-            Console.WriteLine(escuela); //idealmente si imprimos escuela deberia salir todo pero no es asi
+            Console.WriteLine(escuela); //si se imprime el objeto se impre el nombre completo del objeto, no su informacion
+            //por lo tanto en escuela.cs se hizo un override para imprimir todo poniendo escuela [se profundizara mas]
+
+
         }
     }
     
