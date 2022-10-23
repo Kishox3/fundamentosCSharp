@@ -35,7 +35,17 @@ namespace CoreEscuela
 
             Console.WriteLine(escuela);
             System.Console.WriteLine("====================");
-            
+            ImprimirCursos(arregloCursos);
+        }
+
+        private static void ImprimirCursos(Curso[] arregloCursos)
+        {
+            int contador = 0;
+            while (contador < arregloCursos.Length)
+            {
+                Console.WriteLine($"Nombre {arregloCursos[contador].Nombre}, Id {arregloCursos[contador].UniequeId}");
+                contador++;
+            }
         }
     }
 
