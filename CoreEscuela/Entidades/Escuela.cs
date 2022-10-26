@@ -13,6 +13,8 @@ namespace CoreEscuela.Entidades
 
         public TiposEscuela TipoEscuela { get; set; }
 
+        public Curso[] Cursos { get; set; }
+
         //constructor 1
         public Escuela(string nombre, int año) => (Nombre, AñoDeCreacion) = (nombre, año); //se procede a utilziar una igualacion por tuplas para simplificar el constructor
 
