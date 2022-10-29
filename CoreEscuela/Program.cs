@@ -32,9 +32,21 @@ namespace CoreEscuela
             escuela.Cursos.Add( new Curso(){Nombre="302", Jornada = TiposJornada.Tarde});
             escuela.Cursos.AddRange(otraColeccion);
 
-            escuela.Cursos.Remove()
 
+            Curso tmp = new Curso{Nombre = "101-Vacacional", Jornada = TiposJornada.Noche};
+            escuela.Cursos.Add(tmp);
             ImprimirCursosEscuela(escuela);
+            WriteLine("Curso.Hash" + tmp.GetHashCode());
+
+            Predicate<Curso>miAlgoritmo = Predicado;
+
+            escuela.Cursos.RemoveAll(miAlgoritmo);
+            ImprimirCursosEscuela(escuela);
+        }
+
+        private static bool Predicado(Curso curobj)
+        {
+            return curobj.Nombre == "301";
         }
 
         private static void ImprimirCursosEscuela(Escuela escuela)
