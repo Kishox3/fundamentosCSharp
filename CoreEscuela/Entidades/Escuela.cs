@@ -1,6 +1,8 @@
+using System.Collections.Generic;
+
 namespace CoreEscuela.Entidades
 {
-    class Escuela
+    public class Escuela
     {
         //Propiedades
         public string Nombre { get; set; }
@@ -13,7 +15,7 @@ namespace CoreEscuela.Entidades
 
         public TiposEscuela TipoEscuela { get; set; }
 
-        public Curso[] Cursos { get; set; }
+        public List<Curso> Cursos { get; set; }
 
         //constructor 1
         public Escuela(string nombre, int año) => (Nombre, AñoDeCreacion) = (nombre, año); //se procede a utilziar una igualacion por tuplas para simplificar el constructor
