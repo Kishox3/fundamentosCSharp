@@ -24,23 +24,11 @@ namespace CoreEscuela
             var otraColeccion = new List<Curso>(){
                 new Curso(){Nombre = "401", Jornada = TiposJornada.Mañana},
                 new Curso(){Nombre = "501", Jornada = TiposJornada.Mañana},
+                new Curso(){Nombre = "501", Jornada = TiposJornada.Tarde},
                 new Curso(){Nombre = "601", Jornada = TiposJornada.Mañana}
             };
 
-            escuela.Cursos.Add( new Curso(){Nombre="102", Jornada = TiposJornada.Tarde});
-            escuela.Cursos.Add( new Curso(){Nombre="202", Jornada = TiposJornada.Tarde});
-            escuela.Cursos.Add( new Curso(){Nombre="302", Jornada = TiposJornada.Tarde});
-            escuela.Cursos.AddRange(otraColeccion);
 
-
-            Curso tmp = new Curso{Nombre = "101-Vacacional", Jornada = TiposJornada.Noche};
-            escuela.Cursos.Add(tmp);
-            ImprimirCursosEscuela(escuela);
-            WriteLine("Curso.Hash" + tmp.GetHashCode());
-
-            Predicate<Curso>miAlgoritmo = Predicado;
-
-            escuela.Cursos.RemoveAll(miAlgoritmo);
             ImprimirCursosEscuela(escuela);
         }
 
@@ -49,6 +37,9 @@ namespace CoreEscuela
             return curobj.Nombre == "301";
         }
 
+        ///<SUMMARY>
+        ///
+        ///
         private static void ImprimirCursosEscuela(Escuela escuela)
         {
             separador();
